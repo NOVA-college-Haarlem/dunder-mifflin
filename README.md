@@ -28,6 +28,4 @@ Vergelijk de resultaten van deze twee queries hierboven. Hoe verschillen de resu
 
 > 9. Haalt de eerste 10 rijen en alle kolommen uit de bestellingentabel waarbij het totale dollarbedrag van total_amt_usd kleiner is dan 500.
 
-
-
-]
+> 10. Filter de accounts-tabel om de bedrijfsnaam, website en het primaire contactpunt (primary_poc) te tonen enkel voor het bedrijf Exxon Mobil in de accounts-tabel.

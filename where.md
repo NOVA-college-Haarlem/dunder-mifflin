@@ -17,3 +17,11 @@
     WHERE total_amt_usd < 500
     LIMIT 10;
 ```
+
+> 10. Filter de accounts-tabel om de bedrijfsnaam, website en het primaire contactpunt (primary_poc) te tonen enkel voor het bedrijf Exxon Mobil in de accounts-tabel.
+
+```sql
+    SELECT name, website, primary_poc
+    FROM accounts
+    WHERE name = 'Exxon Mobil';
+```
