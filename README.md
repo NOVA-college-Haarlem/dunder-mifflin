@@ -33,6 +33,19 @@ Vergelijk de resultaten van deze twee queries hierboven. Hoe verschillen de resu
 ## Wiskundige operatoren
 
 Gebruik de orders table:
+
 > 11. Maak een kolom die de standard_amt_usd deelt door de standard_qty om de eenheidsprijs voor standaard papier voor elke bestelling te vinden. Beperk de resultaten tot de eerste 10 bestellingen en neem de id en account_id velden op.
 
-> 12. Schrijf een query die het percentage van de omzet vindt dat afkomstig is van posterpapier voor elke bestelling. Je zult alleen de kolommen moeten gebruiken die eindigen op _usd. (Probeer dit te doen zonder de totale kolom te gebruiken.) Toon ook de id en account_id velden. OPMERKING - je zult een foutmelding ontvangen met de juiste oplossing voor deze vraag. Dit komt omdat ten minste een van de waarden in de gegevens een deling door nul veroorzaakt in je formule. Je zult later in de cursus leren hoe je dit probleem volledig kunt aanpakken. Voor nu kun je je berekeningen gewoon beperken tot de eerste 10 bestellingen, zoals we deden in vraag #1, en je zult die set gegevens vermijden die het probleem veroorzaakt.
+> 12. Schrijf een query die het percentage van de omzet vindt dat afkomstig is van posterpapier voor elke bestelling. Je zult alleen de kolommen moeten gebruiken die eindigen op \_usd. (Probeer dit te doen zonder de totale kolom te gebruiken.) Toon ook de id en account_id velden. OPMERKING - je zult een foutmelding ontvangen met de juiste oplossing voor deze vraag. Dit komt omdat ten minste een van de waarden in de gegevens een deling door nul veroorzaakt in je formule. Je zult later in de cursus leren hoe je dit probleem volledig kunt aanpakken. Voor nu kun je je berekeningen gewoon beperken tot de eerste 10 bestellingen, zoals we deden in vraag #1, en je zult die set gegevens vermijden die het probleem veroorzaakt.
+
+## Like
+
+Gebruik de _accounts_ tabel
+
+> 13. Alle bedrijven waarvan de namen beginnen met 'C'.
+
+> 14. Alle bedrijven waarvan de namen ergens in de naam de tekenreeks 'one' bevatten.
+
+> 15. Alle bedrijven waarvan de namen eindigen op 's'.
+
+   
