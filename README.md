@@ -14,3 +14,11 @@
 
 Vergelijk de resultaten van deze twee bovenstaande queries. Hoe verschillen de resultaten wanneer u de kolom waarop u eerst sorteert, wijzigt?
 
+## ORDER BY
+
+> 6. Schrijf een query die de bestel-ID, het account-ID en het totale dollarbedrag weergeeft voor alle bestellingen, eerst gesorteerd op account-ID (in oplopende volgorde) en vervolgens op het totale dollarbedrag (in aflopende volgorde).
+
+> 7. Schrijf nu een query die opnieuw de bestel-ID, het account-ID en het totale dollarbedrag weergeeft voor elke bestelling, maar deze keer gesorteerd op het totale dollarbedrag (in aflopende volgorde) en vervolgens op account-ID (in oplopende volgorde).
+
+Vergelijk de resultaten van deze twee queries hierboven. Hoe verschillen de resultaten wanneer je de kolom waarop je eerst sorteert, wisselt?
+
