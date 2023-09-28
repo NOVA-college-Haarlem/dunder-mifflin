@@ -48,4 +48,3 @@ Gebruik de _accounts_ tabel
 
 > 15. Alle bedrijven waarvan de namen eindigen op 's'.
 
-   
