@@ -22,3 +22,12 @@ Vergelijk de resultaten van deze twee bovenstaande queries. Hoe verschillen de r
 
 Vergelijk de resultaten van deze twee queries hierboven. Hoe verschillen de resultaten wanneer je de kolom waarop je eerst sorteert, wisselt?
 
+## WHERE
+
+> 8. Haalt de eerste 5 rijen en alle kolommen uit de bestellingentabel waarbij het dollarbedrag van gloss_amt_usd groter is dan of gelijk aan 1000.
+
+> 9. Haalt de eerste 10 rijen en alle kolommen uit de bestellingentabel waarbij het totale dollarbedrag van total_amt_usd kleiner is dan 500.
+
+
+
+]
